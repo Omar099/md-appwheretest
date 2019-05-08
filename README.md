@@ -1,2 +1,2 @@
-# md-ios-appwheretest
+# md-android-appwheretest
 AppWhere Test

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">APPWHERE-Test</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_login">Inicio de Sesion</string>
+    <string name="new_account">¿Aún no tienes cuenta?</string>
+    <string name="record_user">Recordar usuario</string>
+    <string name="title_map_offices">Mapa</string>
+    <string name="title_list_offices">Sucursales</string>
+    <string name="title_add_office">Agregar</string>
+
+    <string name="create_office_name">Nombre</string>
+    <string name="create_office_address">Dirección</string>
+    <string name="create_office_phone">Teléfono</string>
+    <string name="create_office_lat">Latitud</string>
+    <string name="create_office_long">Longitud</string>
+    <string name="create_office_continue">Continuar</string>
+
+</resources>

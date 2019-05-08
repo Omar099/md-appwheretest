@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/ic_map_simple"
+        android:title="@string/title_map_offices" />
+
+    <item
+        android:id="@+id/navigation_offices"
+        android:icon="@drawable/ic_map_legend"
+        android:title="@string/title_list_offices" />
+
+    <item
+        android:id="@+id/navigation_add"
+        android:icon="@drawable/ic_map_plus"
+        android:title="@string/title_add_office" />
+
+</menu>
